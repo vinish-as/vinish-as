@@ -24,37 +24,42 @@
 - 🤖 Interested in Artificial Intelligence, Machine Learning, and Data Analytics.
 - 💻 Passionate about developing practical, real-world technology solutions.
 - 📊 Exploring data visualization, intelligent systems, and predictive analytics.
-- 🚗 Working on an **Intelligent Smart Parking System** using Computer Vision and ANPR.
+- 🚗 Developing an **Intelligent Smart Parking System** using Computer Vision and ANPR.
 - 🌱 Continuously learning new technologies and improving my development skills.
-- 🎯 My goal is to become an AI & Data Science professional and contribute to innovative projects.
+- 🎯 Aspiring to become an AI & Data Science professional and contribute to innovative projects.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-### Programming Languages
+### 💻 Programming Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,java,js" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,js" alt="Programming Languages"/>
 </p>
 
-### AI, Machine Learning & Data Science
+### 🤖 AI, Machine Learning & Data Science
+
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="AI and Machine Learning"/>
 </p>
 
-### Web & Mobile Development
+### 🌐 Web & Mobile Development
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,flutter" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,flutter" alt="Web and Mobile Development"/>
 </p>
 
-### Database & Hardware
+### 🗄️ Database & Hardware
+
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,arduino" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,arduino" alt="Database and Hardware"/>
 </p>
 
-### Development Tools
+### ⚙️ Development Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/>
 </p>
 
 ---
@@ -63,42 +68,46 @@
 
 ### 🚗 Intelligent Smart Parking System
 
-An intelligent parking management solution designed to simplify vehicle parking through automation and real-time monitoring.
+An intelligent parking management solution designed to simplify vehicle parking through automation, Computer Vision, and real-time monitoring.
 
 **Key Features:**
+
 - 📷 Computer Vision-based parking slot detection.
 - 🔢 Automatic Number Plate Recognition (ANPR).
-- 🅿️ Real-time parking slot availability.
+- 🅿️ Real-time parking slot availability monitoring.
 - 📱 Mobile application for checking and booking parking slots.
 - ⏱️ Parking session tracking and vehicle entry/exit records.
 - 🔔 Parking time-limit notifications and extension functionality.
+- 🗄️ NoSQL database for efficient parking data management.
 
-**Technologies:** Python, Computer Vision, MongoDB, React Native, Node.js.
+**Technologies:** Python, Computer Vision, ANPR, MongoDB, React Native, Node.js.
 
-🔗 [Explore my GitHub repositories](https://github.com/vinish-as?tab=repositories)
+🔗 [Explore My GitHub Repositories](https://github.com/vinish-as?tab=repositories)
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 **Paranox 2.0 Hackathon** – Ranked 85th among 5,613 participating teams and shortlisted for Round 2 (Top 200).
+- 🥇 **Best Paper Award – ICRICS 2026:** Received the Best Paper Award for developing the **Intelligent Smart Parking System**, featuring real-time monitoring, intelligent parking slot allocation, and NoSQL database technology for smart city applications.
+
+- 🚀 **Paranox 2.0 Hackathon:** Secured **85th rank among 5,613 participating teams** and shortlisted among the Top 200 teams for Round 2.
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinish-as&theme=tokyonight" alt="GitHub Stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinish-as&theme=tokyonight" alt="Repositories by Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinish-as&theme=tokyonight" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinish-as&theme=tokyonight" alt="Repositories by Language"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinish-as&theme=tokyonight" alt="Most Used Commit Languages" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vinish-as&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinish-as&theme=tokyonight" alt="Most Used Commit Languages"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vinish-as&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
 </p>
 
 <p align="center">
-  <img width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinish-as&theme=tokyonight" alt="GitHub Profile Summary" />
+  <img width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinish-as&theme=tokyonight" alt="GitHub Profile Summary"/>
 </p>
 
 ---
@@ -106,7 +115,7 @@ An intelligent parking management solution designed to simplify vehicle parking 
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vinish-as&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=vinish-as&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
@@ -115,7 +124,7 @@ An intelligent parking management solution designed to simplify vehicle parking 
 
 <p align="center">
   <a href="https://github.com/vinish-as">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinish-as&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinish-as&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph"/>
   </a>
 </p>
 
