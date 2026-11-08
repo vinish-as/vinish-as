@@ -1,21 +1,154 @@
-<h1 align="center">Hi 👋, I'm Vinish A S</h1>
-<h3 align="center">Aspiring AI & Data Science Engineer | Passionate about Technology, Innovation, and Problem Solving</h3>
+# 👋 Hi, I'm Vinish A S
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinish-as&label=Profile%20views&color=0e75b6&style=flat" alt="vinish-as" /> </p>
+<h3 align="center">Aspiring AI & Data Science Engineer | Building Intelligent Solutions with AI, Data, and Technology</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinish-as" alt="vinish-as" /></a> </p>
-
-- 📫 How to reach me **asvinish16@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vinish-as&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/vinish-as?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/vinish-as">
+    <img src="https://img.shields.io/badge/GitHub-vinish--as-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="mailto:asvinish16@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinish-as&show_icons=true&locale=en&layout=compact" alt="vinish-as" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinish-as&show_icons=true&locale=en" alt="vinish-as" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinish-as&" alt="vinish-as" /></p>
+- 🎓 Currently pursuing **B.E. in Artificial Intelligence and Data Science**.
+- 🤖 Interested in Artificial Intelligence, Machine Learning, and Data Analytics.
+- 💻 Passionate about developing practical, real-world technology solutions.
+- 📊 Exploring data visualization, intelligent systems, and predictive analytics.
+- 🚗 Working on an **Intelligent Smart Parking System** using Computer Vision and ANPR.
+- 🌱 Continuously learning new technologies and improving my development skills.
+- 🎯 My goal is to become an AI & Data Science professional and contribute to innovative projects.
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,java,js" />
+</p>
+
+### AI, Machine Learning & Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+### Web & Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,flutter" />
+</p>
+
+### Database & Hardware
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,arduino" />
+</p>
+
+### Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 🌟 Featured Project
+
+### 🚗 Intelligent Smart Parking System
+
+An intelligent parking management solution designed to simplify vehicle parking through automation and real-time monitoring.
+
+**Key Features:**
+- 📷 Computer Vision-based parking slot detection.
+- 🔢 Automatic Number Plate Recognition (ANPR).
+- 🅿️ Real-time parking slot availability.
+- 📱 Mobile application for checking and booking parking slots.
+- ⏱️ Parking session tracking and vehicle entry/exit records.
+- 🔔 Parking time-limit notifications and extension functionality.
+
+**Technologies:** Python, Computer Vision, MongoDB, React Native, Node.js.
+
+🔗 [Explore my GitHub repositories](https://github.com/vinish-as?tab=repositories)
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Paranox 2.0 Hackathon** – Ranked 85th among 5,613 participating teams and shortlisted for Round 2 (Top 200).
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinish-as&theme=tokyonight" alt="GitHub Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinish-as&theme=tokyonight" alt="Repositories by Language" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinish-as&theme=tokyonight" alt="Most Used Commit Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vinish-as&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+</p>
+
+<p align="center">
+  <img width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinish-as&theme=tokyonight" alt="GitHub Profile Summary" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vinish-as&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <a href="https://github.com/vinish-as">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinish-as&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" />
+  </a>
+</p>
+
+---
+
+## 📌 Explore My GitHub
+
+<p align="center">
+  <a href="https://github.com/vinish-as?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-All%20Repositories-blue?style=for-the-badge&logo=github" alt="All Repositories"/>
+  </a>
+  <a href="https://github.com/vinish-as?tab=stars">
+    <img src="https://img.shields.io/badge/View-Starred%20Projects-yellow?style=for-the-badge&logo=github" alt="Starred Projects"/>
+  </a>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:asvinish16@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/vinish-as">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>💡 Learn. Build. Innovate. Repeat.</b>
+</p>
+
+<p align="center">
+  ⭐ If you find my projects interesting, consider giving them a star!
+</p>
