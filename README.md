@@ -60,6 +60,10 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/>
+  <br/>
+  <a href="https://antigravity.google/" target="_blank">
+    <img src="https://img.shields.io/badge/Antigravity-AI%20Development%20IDE-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity"/>
+  </a>
 </p>
 
 ---
